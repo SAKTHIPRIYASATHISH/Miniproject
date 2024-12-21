@@ -239,6 +239,10 @@ if _name_ == "_main_":
     main_account_screen()
 ```
 
+## Output
+![WhatsApp Image 2024-12-21 at 08 34 12_2db6f742](https://github.com/user-attachments/assets/4cbbd06a-b8d5-430e-8f99-e9e9b5b2d885)
+
+
 
 
 ## Results and Impact
